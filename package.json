@@ -1,0 +1,15 @@
+{
+  "name": "password-manager-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.396.0",
+    "readline": "^1.3.0"
+  }
+}
